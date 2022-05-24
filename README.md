@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# The Dexminer Finance
+# 🌀 The Dexminer Finance
 
 ### High Risk Investment
 

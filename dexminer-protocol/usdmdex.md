@@ -6,7 +6,7 @@ description: >-
 coverY: 0
 ---
 
-# $MDEX
+# 💰 $MDEX
 
 The WORLD’S FIRST Auto-Compounding MINER!
 

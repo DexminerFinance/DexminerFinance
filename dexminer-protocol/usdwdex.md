@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# $WDEX
+# 💸 $WDEX
 
 ## WDEX - Wrapped Yield  Token by Dexminer Finance
 
