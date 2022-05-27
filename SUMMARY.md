@@ -4,8 +4,5 @@
 
 ## Dexminer Protocol
 
+* [How Does Auto-Staking Work?](dexminer-protocol/how-does-auto-staking-work.md)
 * [💰 $DEX](dexminer-protocol/usddex.md)
-* [💰 $MDEX](dexminer-protocol/usdmdex.md)
-* [💸 $WDEX](dexminer-protocol/usdwdex.md)
-* [💹 $OCASH](dexminer-protocol/usdocash.md)
-* [💹 $ODEX Swap](dexminer-protocol/usdodex-swap.md)
