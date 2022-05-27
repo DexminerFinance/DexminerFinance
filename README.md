@@ -22,6 +22,14 @@ Aiming at the consolidation of our ecosystem, we have adopted some starting poin
 
 
 
+Audit:\
+Fairlaunch:\
+KYC:
+
+
+
+
+
 
 
 &#x20;                        &#x20;
