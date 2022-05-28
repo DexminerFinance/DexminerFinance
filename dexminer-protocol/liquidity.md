@@ -1,8 +1,9 @@
 ---
+cover: ../.gitbook/assets/CAPA GIT.jpg
 coverY: 0
 ---
 
-# ❗ How Is The APY Backed
+# 🧿 Liquidity
 
 Dexminer Finance has integrated a solid RIF structure which takes advantage of the trading volume fees in order to back the staking rewards (rebase rewards) when the DXM/BNB pair supply is worth 2.5% of the total supply.
 

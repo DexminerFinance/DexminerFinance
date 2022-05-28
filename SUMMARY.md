@@ -4,16 +4,13 @@
 
 ## Dexminer Protocol
 
-* [⚙ How Does Auto-Staking Work?](dexminer-protocol/how-does-auto-staking-work.md)
-* [🛡 Risk Insurance Fund (RIF)](dexminer-protocol/risk-insurance-fund-rif.md)
-* [🏫 The Treasury](dexminer-protocol/the-treasury.md)
+* [⚙ Ecosystem](dexminer-protocol/ecosystem.md)
+* [🛡 Anti-Dump Security](dexminer-protocol/anti-dump-security.md)
 * [🔥 Auto Token Burn](dexminer-protocol/auto-token-burn.md)
+* [⚖ Dexminer Finance Fund](dexminer-protocol/dexminer-finance-fund.md)
 * [⛏ $BUSD](dexminer-protocol/usdbusd.md)
-* [💸 How the APY is Calculated](dexminer-protocol/how-the-apy-is-calculated.md)
-* [❗ How Is The APY Backed](dexminer-protocol/how-is-the-apy-backed.md)
-* [🚀 Generating Revenues with APY](dexminer-protocol/generating-revenues-with-apy.md)
-* [💲 Longterm Interest Mechanism (LIM)](dexminer-protocol/longterm-interest-mechanism-lim.md)
-* [📊 DXM bank](dexminer-protocol/dxm-bank.md)
+* [🧿 Liquidity](dexminer-protocol/liquidity.md)
+* [🔊 Promotion & Development](dexminer-protocol/promotion-and-development.md)
 
 ## technical
 
@@ -25,8 +22,6 @@
 
 ## ecosystem
 
-* [🔎 Buy and Sell  Fees](ecosystem/buy-and-sell-fees.md)
-* [🖇 Trading Fees Explained](ecosystem/trading-fees-explained.md)
 * [🚀 Tokenomics](ecosystem/tokenomics.md)
 * [🛣 Roadmap](ecosystem/roadmap.md)
 * [✅ Audit & KYC](ecosystem/audit-and-kyc.md)

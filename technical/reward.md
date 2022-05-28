@@ -1,5 +1,6 @@
 ---
 description: Reward For NFT Holders
+cover: ../.gitbook/assets/CAPA GIT.jpg
 coverY: 0
 ---
 

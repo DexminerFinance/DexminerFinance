@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/CAPA GIT.jpg
 coverY: 0
 ---
 
@@ -6,7 +7,7 @@ coverY: 0
 
 **Dexminer Finance NFT** is a collection of 5,000 Dex Avatars. Each NFT is unique and living on the Binance Smart Chain. With hundreds of artistic elements, each avatar is crafted by DXM Team Artist.&#x20;
 
-DXM  NFT collection uniquely interacts with the DXM Ecosystem. There are 4 rarities: Common, Rare, Epic & Immortal. NFT Owners will receive BNB reward from 2% fee of $DXM sale volume, use NFT as a citizen to play Truffle Social Game, AND trade the NFTs on the Truffle NFT Marketplace.
+DXM  NFT collection uniquely interacts with the DXM Ecosystem. There are 4 rarities: Common, Rare, Epic & Immortal. NFT Owners will receive BNB reward from 2% fee of $DXM sale volume, use NFT as a citizen to play DXM Social Game, AND trade the NFTs on the DXM NFT Marketplace.
 
 <mark style="background-color:purple;">NFT Drop Rate:</mark>
 
