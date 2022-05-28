@@ -24,6 +24,7 @@
 
 * [🚀 Tokenomics](ecosystem/tokenomics.md)
 * [🛣 Roadmap](ecosystem/roadmap.md)
+* [♣ Team](ecosystem/team.md)
 * [✅ Audit & KYC](ecosystem/audit-and-kyc.md)
 * [✅ Aidrops](ecosystem/aidrops.md)
 * [🎙 AMA's](ecosystem/amas.md)
