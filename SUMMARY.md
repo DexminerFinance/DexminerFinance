@@ -6,10 +6,10 @@
 
 * [⚙ Ecosystem](dexminer-protocol/ecosystem.md)
 * [🛡 Anti-Dump Security](dexminer-protocol/anti-dump-security.md)
-* [🔥 Auto Token Burn](dexminer-protocol/auto-token-burn.md)
-* [⚖ Dexminer Finance Fund](dexminer-protocol/dexminer-finance-fund.md)
+* [🔥 DXM Burn Protocol](dexminer-protocol/dxm-burn-protocol.md)
+* [⚖ DXM Dividend Fund](dexminer-protocol/dxm-dividend-fund.md)
 * [⛏ $BUSD](dexminer-protocol/usdbusd.md)
-* [🧿 Liquidity](dexminer-protocol/liquidity.md)
+* [🧿 DXM Treasury](dexminer-protocol/dxm-treasury.md)
 * [🔊 Promotion & Development](dexminer-protocol/promotion-and-development.md)
 * [📚 DXM Dapp](dexminer-protocol/dxm-dapp.md)
 
