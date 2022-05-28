@@ -11,6 +11,7 @@
 * [⛏ $BUSD](dexminer-protocol/usdbusd.md)
 * [🧿 Liquidity](dexminer-protocol/liquidity.md)
 * [🔊 Promotion & Development](dexminer-protocol/promotion-and-development.md)
+* [📚 DXM Dapp](dexminer-protocol/dxm-dapp.md)
 
 ## technical
 
@@ -24,7 +25,7 @@
 
 * [🚀 Tokenomics](ecosystem/tokenomics.md)
 * [🛣 Roadmap](ecosystem/roadmap.md)
-* [♣ Team](ecosystem/team.md)
+* [♣ Team & Advisors](ecosystem/team-and-advisors.md)
 * [✅ Audit & KYC](ecosystem/audit-and-kyc.md)
 * [✅ Aidrops](ecosystem/aidrops.md)
 * [🎙 AMA's](ecosystem/amas.md)

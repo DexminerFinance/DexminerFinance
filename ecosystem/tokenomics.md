@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/CAPA GIT.jpg
+coverY: 0
+---
+
 # 🚀 Tokenomics
 
 <mark style="background-color:purple;">**Initial Supply - 800,000 $DXM**</mark>

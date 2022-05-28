@@ -3,6 +3,5 @@ cover: ../.gitbook/assets/CAPA GIT.jpg
 coverY: 0
 ---
 
-# ✅ Audit & KYC
+# 📚 DXM Dapp
 
-DETAILS COMING SOON
